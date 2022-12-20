@@ -371,7 +371,7 @@ const sendMsg2 = () => {
                     contents: [
                       {
                         type: "text",
-                        text: "廢渣",
+                        text: "小廢物",
                         color: "#ffffff",
                         align: "center",
                         size: "xs",
@@ -398,7 +398,7 @@ const sendMsg2 = () => {
                 contents: [
                   {
                     type: "image",
-                    url: "https://happy9990929.github.io/liffProject/4.jpg",
+                    url: "https://happy9990929.github.io/liffProject/5.jpg",
                     size: "full",
                     aspectMode: "cover",
                     aspectRatio: "2:3",
