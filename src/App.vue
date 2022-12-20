@@ -240,7 +240,7 @@ const sendMsg2 = () => {
                 contents: [
                   {
                     type: "image",
-                    url: "https://scontent.frmq2-2.fna.fbcdn.net/v/t31.18172-8/12370846_1228574460490598_7786433101117387003_o.jpg?_nc_cat=100&ccb=1-7&_nc_sid=f9d7a1&_nc_ohc=31pkGPech3IAX9KXBBj&_nc_ht=scontent.frmq2-2.fna&oh=00_AfCtQlVYSrUGjSfcJwocgdoQIxuJlegi5i4hazIFX5yYng&oe=63C8AAB5",
+                    url: "https://happy9990929.github.io/liffProject/1.jpg",
                     size: "full",
                     aspectMode: "cover",
                     aspectRatio: "2:3",
@@ -269,7 +269,7 @@ const sendMsg2 = () => {
                         contents: [
                           {
                             type: "text",
-                            text: "廢物誕辰日",
+                            text: "廢倫誕辰日",
                             color: "#ebebeb",
                             size: "sm",
                             flex: 0,
@@ -319,7 +319,7 @@ const sendMsg2 = () => {
                 contents: [
                   {
                     type: "image",
-                    url: "https://scontent.frmq2-1.fna.fbcdn.net/v/t31.18172-8/1490655_728723730479191_2052542240_o.jpg?_nc_cat=108&ccb=1-7&_nc_sid=ba80b0&_nc_ohc=fu0RuAWMJyYAX_c6Buv&_nc_ht=scontent.frmq2-1.fna&oh=00_AfBB2eQSIjR8JYfbInaMMbX07ccIOrCeBnJnYkvV2Y_jZQ&oe=63C8AA79",
+                    url: "https://happy9990929.github.io/liffProject/3.jpg",
                     size: "full",
                     aspectMode: "cover",
                     aspectRatio: "2:3",
@@ -335,7 +335,7 @@ const sendMsg2 = () => {
                         contents: [
                           {
                             type: "text",
-                            text: "永遠都會有我對你說聲",
+                            text: "永遠都會有我對你說聲:)",
                             size: "xl",
                             color: "#ffffff",
                             weight: "bold",
@@ -371,7 +371,7 @@ const sendMsg2 = () => {
                     contents: [
                       {
                         type: "text",
-                        text: "右廢物",
+                        text: "廢渣",
                         color: "#ffffff",
                         align: "center",
                         size: "xs",
@@ -398,7 +398,7 @@ const sendMsg2 = () => {
                 contents: [
                   {
                     type: "image",
-                    url: "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.18169-9/11200626_972324096119152_3136967182643255127_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=ba80b0&_nc_ohc=oLHKTdi6q7UAX-dorpo&_nc_ht=scontent.frmq2-1.fna&oh=00_AfC4QUSuvkqld8JSr0OYz7hEiUDx4ndGwQ4RNK8VE3BgAQ&oe=63C8F238",
+                    url: "https://happy9990929.github.io/liffProject/4.jpg",
                     size: "full",
                     aspectMode: "cover",
                     aspectRatio: "2:3",
@@ -414,7 +414,7 @@ const sendMsg2 = () => {
                         contents: [
                           {
                             type: "text",
-                            text: "廢物眼睛可以張開嗎",
+                            text: "眼睛可以張開嗎廢物！！",
                             size: "xl",
                             color: "#ffffff",
                             weight: "bold",
@@ -450,7 +450,7 @@ const sendMsg2 = () => {
                     contents: [
                       {
                         type: "text",
-                        text: "左廢物",
+                        text: "廢到爆",
                         color: "#ffffff",
                         align: "center",
                         size: "xs",
