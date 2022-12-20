@@ -499,9 +499,9 @@ const liffInit = async () => {
       }
     });
 
-    // if (!liffInfo.data.isLoggedIn) {
-    //   liff.login();
-    // }
+    if (!liffInfo.data.isLoggedIn) {
+      liff.login();
+    }
 
     sendMsg2();
     // liff.scanCodeV2().then((result) => {
