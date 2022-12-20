@@ -3,6 +3,6 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: import.meta.env.VITE_LIFF_ID,
+  base: './liffProject',
   plugins: [vue()],
 })
